@@ -1,0 +1,12 @@
+{
+  "usernameField": "Введите имя пользователя",
+  "usernameValidator": "Минимум 4 символа",
+  "passwordField": "Введите свой пароль",
+  "passwordValidator": "Минимум 8 символов",
+  "login": "Войти",
+  "invalidAuth": "Неправильное имя пользователя/пароль",
+  "onHold": "На удерживании",
+  "inProgress": "В ходе выполнения",
+  "needsReview": "Требуется обзор",
+  "approved": "Одобренный"
+}

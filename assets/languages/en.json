@@ -1,0 +1,12 @@
+{
+  "usernameField": "Enter your username",
+  "usernameValidator": "Minimum is 4 characters",
+  "passwordField": "Enter your password",
+  "passwordValidator": "Minimum is 8 characters",
+  "login": "Log in",
+  "invalidAuth": "Invalid username/password",
+  "onHold": "On hold",
+  "inProgress": "In progress",
+  "needsReview": "Needs review",
+  "approved": "Approved"
+}
